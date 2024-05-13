@@ -16,7 +16,7 @@ HTTP_PORT = 3000
 SOCKET_PORT = 5000
 HTTP_HOST = "0.0.0.0"
 SOCKET_HOST = "127.0.0.1"
-URI_DB = "mongodb://localhost:27017"
+URI_DB = "mongodb://mongodb:27017"
 
 
 class Framework(BaseHTTPRequestHandler):
